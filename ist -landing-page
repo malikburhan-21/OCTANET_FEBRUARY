@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>landingpage</title>
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.1.0/fonts/remixicon.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="main">
+        <div id="left">
+            <div id="lnav">
+                <div id="icon"><a href=""><i class="ri-shopping-basket-fill"></i></a></div>
+               <div id="lnavr">
+                 <a href="">HOME</a>
+                 <a href="">ABOUT</a>
+                 <a href="">CONTACT</a>
+                 <a href="">SERVICES</a>
+                </div>
+            </div>
+
+            <div id="left-content"> 
+                 <h1>HELLO,</h1>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas earum asperiores repellat aut quos recusandae m asperiores repellat aut quos .</p>
+            </div>
+             <div id="read-div">READ</div> 
+
+            <div id="social-icons">
+              
+                <a href=""><i class="ri-twitter-x-line"></i></a>
+                <a href=""> <i class="ri-whatsapp-line"></i></a>
+                <a href=""><i class="ri-instagram-line"></i></a>
+                <a href=""> <i class="ri-facebook-fill"></i></a>
+              
+            </div>
+         
+        </div>
+        <div id="right">
+            <div id="righttop">
+                <div id="righttopleft"></div>
+                <div id="righttopright"></div>
+            </div>
+            <div id="rightbottom"></div>
+        </div>
+    </div>
+</body>
+</html>
